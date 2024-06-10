@@ -1,0 +1,3 @@
+/Users/arash/Desktop/SPRING SEMESTER/C++/Labs/Project - Phase 1/cmake-build-debug/CMakeFiles/Project___Phase_1.dir
+/Users/arash/Desktop/SPRING SEMESTER/C++/Labs/Project - Phase 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arash/Desktop/SPRING SEMESTER/C++/Labs/Project - Phase 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
