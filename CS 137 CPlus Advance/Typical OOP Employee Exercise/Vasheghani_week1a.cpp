@@ -55,8 +55,7 @@ public:
         return get_Gross()- get_FedTax()-get_StateTax();
     }
 
-    void set_HourlyPay(double pay)
-    {
+    void set_HourlyPay(double pay){
         hourly_pay = pay;
     }
 
@@ -90,5 +89,4 @@ int main() {
     cout<<"Federal Tax: $"<<employee.get_FedTax()<<endl;
     cout<<"State Tax: $"<<employee.get_StateTax()<<endl;
     cout<<"Net Pay: $"<<employee.get_Net()<<endl;
-
 }
